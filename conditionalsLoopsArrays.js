@@ -26,6 +26,8 @@ console.log("Challenge #3:");
 // CONDITIONALS //
 //////////////////
 console.log("Challenge #4:");
+const catchChance =.25
+const catchAttempt =math.random()
 // Create a variable called "catchChance" and set it equal to .25
 // Note: this corresponds to a 25% chance to catch a pokemon!
 
